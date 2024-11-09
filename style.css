@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    margin: 0;
+    background-color: rgb(255, 107, 43);
+}
+#duolynjo{
+    background-image: linear-gradient(rgb(255, 107, 43),rgb(255, 162, 0), rgb(255, 107, 43));
+}
