@@ -6,3 +6,37 @@ body{
 #duolynjo{
     background-image: linear-gradient(rgb(255, 107, 43),rgb(255, 162, 0), rgb(255, 107, 43));
 }
+.line{
+    background-color: rgb(255, 225, 0);
+    width: 200px;
+    height: 6px;
+}
+#titulo, h1{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+#titulo2{
+    font-family: "Michroma", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  #tir{
+    position: absolute;
+    list-style: none;
+    right: 30px;
+    top: 10px;
+    background-color:rgb(255, 145, 0);
+  }
+  .pal{
+    cursor: pointer;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  a{
+    text-decoration: none;
+  }
+  #kontakto iframe{
+    width: 100%;
+  }
